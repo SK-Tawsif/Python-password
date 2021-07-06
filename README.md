@@ -1,7 +1,7 @@
 # Python-password
 Requirements
 -------------
-1.You need to have "Python3" or "Python2"installed in your pc in order to execute this file.
+1.You need to have "Python3" or "Python2"installed in your pc in order to execute this file.<br>
 2.You also need to have "git" installed in order to clone(download) this file via git clone command.
 
 Download/clone
